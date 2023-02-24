@@ -1,0 +1,11 @@
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\bin\Debug\lfpersonal.exe.config
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\bin\Debug\lfpersonal.exe
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\bin\Debug\lfpersonal.pdb
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.Form1.resources
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.Form2.resources
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.Properties.Resources.resources
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.csproj.GenerateResource.cache
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.exe
+C:\Users\sha pc\source\repos\lfpersonal\lfpersonal\obj\Debug\lfpersonal.pdb
